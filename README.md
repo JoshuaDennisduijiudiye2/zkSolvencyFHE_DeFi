@@ -1,4 +1,4 @@
-```markdown
+
 # zkSolvencyFHE: A Privacy-Enhanced DeFi Lending Protocol
 
 zkSolvencyFHE is a pioneering DeFi lending protocol that leverages **Zama's Fully Homomorphic Encryption technology** to offer privacy-centric borrowing solutions. By allowing borrowers to submit zero-knowledge (ZK) proofs of solvency without revealing specific collateral details, this protocol introduces a new paradigm in decentralized finance—one where privacy and security are paramount.
